@@ -1,0 +1,253 @@
+@media(max-width: 575.98px) {
+
+    /* ====================menu_part_Start============= */
+    #main_menu {
+        top: 20px;
+    }
+
+    .res_btn {
+        color: #fff;
+        font-size: 25px;
+        height: auto;
+    }
+
+    .navbar-brand {
+        width: 155px;
+    }
+
+    .navbar-brand img {
+        width: 100%;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-nav {
+        background: black;
+        padding-bottom: 20px;
+    }
+
+    #main_menu ul li .trail_btn {
+        display: inline-block;
+    }
+
+    /* ===================menu_part_end=============== */
+
+    /* =======================banner_part_start==================== */
+    .banner {
+        padding-top: 110px;
+        padding-bottom: 50px;
+        text-align: left;
+    }
+
+    .banner .banner_text {
+        padding-top: 0;
+    }
+
+    .banner .banner_text h1 {
+        font-size: 41px;
+    }
+
+    .banner .banner_text h3 {
+        font-size: 23px;
+        padding: 15px 0;
+    }
+
+    .banner .banner_text p {
+        width: auto;
+        padding-top: 15px;
+        padding-bottom: 25px;
+    }
+
+    .banner .banner_text h3::after {
+        left: 0;
+    }
+
+    .banner .banner_text .banner_btn a {
+        padding: 05px 10px 05px 40px;
+        margin-left: 10px;
+    }
+
+    .banner .banner_text .banner_btn i {
+        left: 10px;
+    }
+
+    .banner .banner_text .banner_btn span {
+        font-size: 14px;
+    }
+
+    .banner_slider .slick-dots {
+        top: auto;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .banner_slider .slick-dots li {
+        display: inline-block;
+        margin: 0 5px;
+        text-align: center;
+    }
+
+    /* =======================banner_part_end==================== */
+
+
+    /* =======================about_part_end==================== */
+    .about_part {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+    /* =======================about_part_end==================== */
+
+
+    /* =======================feature_part_start==================== */
+    .title {
+        font-size: 20px;
+    }
+
+    .frature_part {
+        padding: 30px 0;
+    }
+
+    .frature_part .feature_button p .tab_pera {
+        font-size: 10px;
+    }
+
+    .frature_part .feature_button p {
+        font-size: 14px;
+        margin-bottom: 20px;
+        padding-left: 30px;
+    }
+
+    .frature_part .feature_button p i {
+        font-size: 22px;
+        ;
+    }
+
+    .frature_part .feature_details .deatils .img {
+        width: 0;
+    }
+
+    .frature_part .feature_details .deatils .img img {
+        display: none;
+    }
+
+    .frature_part .feature_details .deatils .text {
+        width: 100%;
+        text-align: left;
+    }
+
+    .frature_part .feature_details .deatils .text .text_item {
+        padding-top: 25px;
+    }
+
+    .frature_part .feature_details .deatils .text h3 {
+        padding-bottom: 14px;
+    }
+
+    /* =======================feature_part_end==================== */
+
+    /* ====================watch_part_start============ */
+    .watch_part .watch_video {
+        padding: 100px 0;
+        background-attachment: fixed;
+    }
+
+    /* ====================watch_part_end============ */
+
+
+    /* ====================pricing_part_start============ */
+    .pricing_part .price_item {
+        margin-bottom: 30px;
+    }
+
+    .pricing_part .price_item a {
+        transform: translateY(-50%);
+    }
+
+    .pricing_part .price_item ul {
+        padding: 20px 0;
+    }
+
+    .pricing_part .price_item:hover h3 {
+        border-radius: 5px 5px 0 0;
+    }
+
+    /* ====================pricing_part_end============ */
+
+
+    /* ====================Team_part_start============ */
+    .team_part {
+        padding-top: 0px;
+        padding-bottom: 0;
+    }
+
+    .team_part .common_title {
+        padding-bottom: 20px;
+    }
+
+    .team_part .team_item .text {
+        display: none;
+    }
+
+    .team_part .team_item:hover .text {
+        bottom: 0;
+    }
+
+    .team_part .team_item:hover .pic {
+        top: 0;
+    }
+
+    .team_part .team_item {
+        margin-bottom: 20px;
+    }
+
+    .team_part .team_item .pic .overlay .icon i {
+        font-size: 14px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    /* ====================Team_part_end============ */
+
+
+    /* ====================feadback_part_Start============ */
+    .feadback_part .img_slider .item .img {
+        width: 80px;
+        height: 80px;
+    }
+
+    /* ====================feadbackt_start_end============ */
+
+    /* ====================contact_start_end============ */
+    .contact_part {
+        padding: 50px 0;
+    }
+
+    /* ====================contact_start_end============ */
+
+    /* =================footer_part_start===================== */
+    .footer_part {
+        padding: 20px 0;
+    }
+
+    .footer_part .fotter_item img {
+        width: 155px;
+    }
+
+    .footer_part .fotter_item .footer_icon i {
+        font-size: 20px;
+        line-height: 40px;
+        width: 40px;
+        height: 40px;
+    }
+
+    .footer_part .fotter_item p {
+        font-size: 14px;
+    }
+
+    /* =================footer_part_end===================== */
+}
