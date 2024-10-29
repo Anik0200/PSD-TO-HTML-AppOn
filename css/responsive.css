@@ -251,3 +251,65 @@
 
     /* =================footer_part_end===================== */
 }
+
+@media(max-width: 768px) {
+
+    .navbar-toggler{
+        color: #fff;
+        font-size: 25px;
+        height: auto;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+
+    .pricing_part .price_item {
+        margin-bottom: 30px;
+    }
+
+    .pricing_part .price_item a {
+        transform: translateY(-50%);
+    }
+
+    .pricing_part .price_item ul {
+        padding: 20px 0;
+    }
+
+    .pricing_part .price_item:hover h3 {
+        border-radius: 5px 5px 0 0;
+    }
+
+    .team_part {
+        padding-top: 0px;
+        padding-bottom: 0;
+    }
+
+    .team_part .common_title {
+        padding-bottom: 20px;
+    }
+
+    .team_part .team_item .text {
+        display: none;
+    }
+
+    .team_part .team_item:hover .text {
+        bottom: 0;
+    }
+
+    .team_part .team_item:hover .pic {
+        top: 0;
+    }
+
+    .team_part .team_item {
+        margin-bottom: 20px;
+    }
+
+    .team_part .team_item .pic .overlay .icon i {
+        font-size: 14px;
+        width: 30px;
+        height: 30px;
+        l
+
+}
