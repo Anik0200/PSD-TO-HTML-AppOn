@@ -2,7 +2,7 @@
 
 This repository contains a sleek and minimalist landing page.
 
-[DEMO](https://psd-to-html-appon.netlify.app/)
+[DEMO](https://psd-to-html-app-on.vercel.app/)
 
 ## FEATURES :
 
